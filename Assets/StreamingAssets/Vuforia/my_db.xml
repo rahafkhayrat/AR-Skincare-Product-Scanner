@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="starville_cleanser" size="0.100000 0.183297" />
+    <ImageTarget name="neutorgina" size="0.100000 0.105667" />
+    <ImageTarget name="avene" size="0.100000 0.133333" />
+    <ImageTarget name="cleanclear" size="0.100000 0.100000" />
+    <ImageTarget name="eucerin" size="0.100000 0.100000" />
+    <ImageTarget name="garnier" size="0.100000 0.100000" />
+    <ImageTarget name="cetaphel" size="0.100000 0.124688" />
+    <ImageTarget name="vaseline" size="0.100000 0.100000" />
+    <ImageTarget name="bioderma" size="0.100000 0.100000" />
+    <ImageTarget name="cerave" size="0.100000 0.111480" />
+    <ImageTarget name="bioderma_gel" size="0.100000 0.100000" />
+  </Tracking>
+</QCARConfig>
